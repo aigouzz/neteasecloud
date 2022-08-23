@@ -46,7 +46,7 @@ npm test
 
 此网站提供的API: [https://api.imjad.cn/cloudmusic/](https://api.imjad.cn/cloudmusic/) ,此接口的说明请到这里[查看](https://api.imjad.cn/cloudmusic/index.html)
 
-歌单列表部分为自己提供，在别一个项目中[MusicApi](https://github.com/javaSwing/MusicAPI)
+歌单列表部分api在其他项目中[MusicApi](https://github.com/javaSwing/MusicAPI)
 
 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) NodeJS 项目
 
