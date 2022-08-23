@@ -161,7 +161,7 @@ const store = new Vuex.Store({
       })
       .catch((error) => {     // 错误处理
         console.log(error)
-        window.alert('获取歌曲信息出错！')
+        Vue.toast('获取歌曲信息出错！')
       })
     }
   }

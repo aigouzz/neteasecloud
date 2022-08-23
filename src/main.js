@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App'
-import Axios from './utils/diyaxios'
+import Axios from './utils/query'
 import router from './router/router'
 import store from './store'
 import MuseUI from 'muse-ui'
